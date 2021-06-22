@@ -1,0 +1,40 @@
+{
+  "name": "test_add_xiaoshu",
+  "status": "passed",
+  "start": 1624323707263,
+  "stop": 1624323707264,
+  "uuid": "9aa58f92-39a4-4e95-bb8d-f2f24a391023",
+  "historyId": "37fd4a521ff38c008b149c4b37aea979",
+  "testCaseId": "03699d6b24008af6d7e173a8917ffefb",
+  "fullName": "test_testA.TestCalc#test_add_xiaoshu",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_testA"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCalc"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-BFPL55GQ"
+    },
+    {
+      "name": "thread",
+      "value": "18548-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_testA"
+    }
+  ]
+}
